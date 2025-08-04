@@ -2,7 +2,7 @@
 
 <p align="center">
 Desenvolvedor apaixonado por tecnologia, com foco em automações inteligentes, websites modernos e dashboards personalizados.  
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP e fundador de uma empresa voltada a soluções digitais.  
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP e fundador da MAPECH, um empresa voltada a soluções digitais.  
 Atualmente, atuo em projetos próprios e sob demanda, sempre em busca de inovação e crescimento profissional 🚀
 </p>
 
@@ -10,7 +10,7 @@ Atualmente, atuo em projetos próprios e sob demanda, sempre em busca de inovaç
 
 - 🔧 Desenvolvo websites, dashboards e sistemas personalizados sob medida  
 - 🧠 Foco atual: React, Node.js, PostgreSQL, APIs e automações inteligentes  
-- 🏢 Fundador de uma empresa de automação e soluções digitais sob demanda  
+- 🏢 Fundador de uma empresa de automação e soluções digitais sob demanda - MAPECH
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
 - 🤝 Aberto a parcerias, projetos freelance e oportunidades na área tech  
 
