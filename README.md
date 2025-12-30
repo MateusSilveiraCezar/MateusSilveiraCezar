@@ -1,81 +1,85 @@
 <h1 align="center">Olá! Eu sou o Mateus Silveira Cezar 👋</h1>
+<h3 align="center">Analista de BI | Especialista em Automação | Desenvolvedor Full Stack</h3>
 
 <p align="center">
-Desenvolvedor apaixonado por tecnologia, com foco em automações inteligentes, websites modernos e dashboards personalizados.  
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP e fundador da MAPECH, um empresa voltada a soluções digitais.  
-Atualmente, atuo em projetos próprios e sob demanda, sempre em busca de inovação e crescimento profissional 🚀
+Transformo dados brutos em inteligência de negócio e processos manuais em automações eficientes. <br>
+Graduando em Análise e Desenvolvimento de Sistemas na <b>FIAP</b> e fundador da <b>MAPECH</b>. <br>
+Atuo na intersecção entre a <b>Engenharia de Dados</b> e o <b>Business Intelligence</b>, utilizando programação para ir além do dashboard tradicional.
 </p>
+
+<p align="center">
+  <a href="#-sobre-mim">Sobre mim</a> •
+  <a href="#-stack-de-dados--bi">Data Stack</a> •
+  <a href="#-desenvolvimento--automação">Dev & Automação</a> •
+  <a href="#-contatos">Contatos</a>
+</p>
+
+---
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
-- 🔧 Desenvolvo websites, dashboards e sistemas personalizados sob medida  
-- 🧠 Foco atual: React, Node.js, PostgreSQL, APIs e automações inteligentes  
-- 🏢 Fundador de uma empresa de automação e soluções digitais sob demanda - MAPECH
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
-- 🤝 Aberto a parcerias, projetos freelance e oportunidades na área tech  
+Sou um profissional focado em resolver problemas de negócios através da tecnologia. Diferente de um analista de BI tradicional, minha bagagem como **Full Stack** me permite não apenas analisar o dado, mas construir as ferramentas para capturá-lo e as automações para agir sobre ele.
 
+- 🔭 **Atualmente trabalhando em:** Integrações de API Logísticas e Dashboards Interativos.
+- 🧠 **Foco de estudo:** Engenharia de Dados com Python (Pandas/ETL), SQL Avançado e Modelagem de Dados.
+- 🏢 **Empreendedorismo:** Como fundador da MAPECH, desenvolvo soluções digitais que otimizam a operação de PMEs.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (FIAP).
 
 ---
 
-<h2 align="center">📊 Atividade no GitHub</h2>
+<h2 align="center">🛠️ Meu Arsenal Técnico</h2>
+
+### 📊 Stack de Dados & BI (Foco Principal)
+> *Extração, Transformação e Visualização*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSilveiraCezar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSilveiraCezar&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel"/>
+</div>
+
+### 🤖 Desenvolvimento & Automação
+> *Criação de APIs, Sistemas Web e Fluxos de Trabalho*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/n8n-EF652A?logo=n8n&logoColor=white&style=for-the-badge" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
+</div>
+
+### 🏢 Sistemas Corporativos & Outros
+<div align="center">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white&style=for-the-badge" alt="SAP"/>
+  <img src="https://img.shields.io/badge/ABAP-0099CC?logo=sap&logoColor=white&style=for-the-badge" alt="ABAP"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
 </div>
 
 ---
 
-<h2 align="center">🛠️ Minhas Stacks</h2> 
+<h2 align="center">📈 GitHub Stats</h2>
 
-### 🖥️ Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
-![ABAP](https://img.shields.io/badge/ABAP-0099CC?logo=sap&logoColor=white&style=flat)
-
-### 🌐 Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-
-### 🛠️ Ferramentas e Tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?logo=microsoftpowerapps&logoColor=white&style=flat)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?logo=microsoftpowerautomate&logoColor=white&style=flat)
-
-### 🤖 Automação e Integrações
-![n8n](https://img.shields.io/badge/n8n-EF652A?logo=n8n&logoColor=white&style=flat)
-
-### 📋 Metodologias Ágeis
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=trello&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=jira&logoColor=white)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSilveiraCezar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSilveiraCezar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
+</div>
 
 ---
 
-<h2 align="center">📫 Contatos</h2> 
+<h2 align="center">📫 Vamos conversar?</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-silveira-cezar-b1b92b2b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mateussilveiracezar08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mat.eusscz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  Obrigado por visitar meu perfil! 🚀  
 </div>
