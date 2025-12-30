@@ -63,8 +63,14 @@ Sou um profissional focado em resolver problemas de negócios através da tecnol
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSilveiraCezar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSilveiraCezar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusSilveiraCezar&theme=tokyonight" alt="Github Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateusSilveiraCezar&theme=tokyonight" alt="Linguagens" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateusSilveiraCezar&theme=tokyonight" alt="Horários" />
 </div>
 
 ---
